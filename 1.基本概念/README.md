@@ -18,3 +18,5 @@ docker利用容器來運行應用
 最大的公開倉庫註冊伺服器是上面提到過的 Docker Hub，存放了數量龐大的映像檔供使用者下載，我們可以輕鬆在上面找到各式各樣現成實用的映像檔。
 
 而 Docker 倉庫註冊伺服器的概念就跟 Github 類似，你可以在上面建立多個倉庫，然後透過 push、pull 的方式上傳、存取。
+
+dl.dockerpool.com/ubuntu-> dl.dockerpool.com(registry),ubuntu(repository)
